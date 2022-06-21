@@ -1,0 +1,144 @@
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.exe
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.deps.json
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.runtimeconfig.json
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.pdb
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.AssemblyReference.cache
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form1.resources
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.GenerateResource.cache
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.AssemblyInfoInputs.cache
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.AssemblyInfo.cs
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\refint\MohammadAhmadCome202Project.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.pdb
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.genruntimeconfig.cache
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\ref\MohammadAhmadCome202Project.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Properties.Resources.resources
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.CopyComplete
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Xamarin.Forms.Core.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Xamarin.Forms.Platform.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Xamarin.Forms.Xaml.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Zeroit.Framework.MaterialWinforms.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form2.resources
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\DynamicData.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\ReactiveUI.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\ReactiveUI.Winforms.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Splat.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\System.Reactive.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.dll.config
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form3.resources
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form4.resources
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\ConfigParser.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\WakaTime.dll
+C:\Users\Mohammad Ahmad\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.helpButtonform.resources
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.exe
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.dll.config
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.deps.json
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.runtimeconfig.json
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.pdb
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\DynamicData.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\ReactiveUI.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\ReactiveUI.Winforms.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\ConfigParser.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Splat.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\System.Reactive.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\WakaTime.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Xamarin.Forms.Core.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Xamarin.Forms.Platform.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Xamarin.Forms.Xaml.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Zeroit.Framework.MaterialWinforms.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.AssemblyReference.cache
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form1.resources
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form2.resources
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form3.resources
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form4.resources
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.helpButtonform.resources
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Properties.Resources.resources
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.GenerateResource.cache
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.AssemblyInfoInputs.cache
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.AssemblyInfo.cs
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.CoreCompileInputs.cache
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.CopyComplete
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\refint\MohammadAhmadCome202Project.dll
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.pdb
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.genruntimeconfig.cache
+C:\Users\Aya Ahmad Soqar\source\repos\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\ref\MohammadAhmadCome202Project.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.exe
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.dll.config
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.deps.json
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.runtimeconfig.json
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\MohammadAhmadCome202Project.pdb
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\DynamicData.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\ReactiveUI.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\ReactiveUI.Winforms.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\ConfigParser.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Splat.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\System.Reactive.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\WakaTime.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Xamarin.Forms.Core.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Xamarin.Forms.Platform.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Xamarin.Forms.Xaml.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\Zeroit.Framework.MaterialWinforms.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.AssemblyReference.cache
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form1.resources
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form2.resources
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form3.resources
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Form4.resources
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.helpButtonform.resources
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.Properties.Resources.resources
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.GenerateResource.cache
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.AssemblyInfoInputs.cache
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.AssemblyInfo.cs
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.csproj.CopyComplete
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\refint\MohammadAhmadCome202Project.dll
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.pdb
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\MohammadAhmadCome202Project.genruntimeconfig.cache
+C:\Users\Mohammad Ahmad\Desktop\University\New folder\wetransfer_mohammadahmadcome202project_2022-06-19_0920\MohammadAhmadCome202Project\MohammadAhmadCome202Project\obj\Debug\net6.0-windows\ref\MohammadAhmadCome202Project.dll

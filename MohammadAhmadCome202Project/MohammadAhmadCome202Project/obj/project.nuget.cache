@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jUD6hcBEvwF9WWRoq0+3HdCno6zufhnhBj4UOw0hzmAlQXNUw72AmFqG3DAo37ZRoGfXiRk9noSTHSXr2skEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammad Ahmad\\Desktop\\University\\New folder\\wetransfer_mohammadahmadcome202project_2022-06-19_0920\\MohammadAhmadCome202Project\\MohammadAhmadCome202Project\\MohammadAhmadCome202Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\dynamicdata\\7.9.1\\dynamicdata.7.9.1.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.2\\guna.ui2.winforms.2.0.3.2.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\reactiveui\\18.1.8\\reactiveui.18.1.8.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\reactiveui.winforms\\18.1.8\\reactiveui.winforms.18.1.8.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\salaros.configparser\\0.3.2\\salaros.configparser.0.3.2.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\splat\\14.2.8\\splat.14.2.8.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\sqlitepclraw.core\\2.1.0\\sqlitepclraw.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\wakatime\\8.1.11\\wakatime.8.1.11.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2478\\xamarin.forms.visual.material.5.0.0.2478.nupkg.sha512",
+    "C:\\Users\\Mohammad Ahmad\\.nuget\\packages\\zeroit.framework.materialwinforms\\1.0.0\\zeroit.framework.materialwinforms.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.UI2.WinForms 2.0.3.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Zeroit.Framework.MaterialWinforms 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Zeroit.Framework.MaterialWinforms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

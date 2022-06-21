@@ -1,0 +1,365 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MohammadAhmadCome202Project/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.123",
+          "Guna.UI2.WinForms": "2.0.3.2",
+          "ReactiveUI.WinForms": "18.1.8",
+          "SQLite": "3.13.0",
+          "SQLitePCLRaw.core": "2.1.0",
+          "System.Data.SQLite.Core": "1.0.116",
+          "WakaTime": "8.1.11",
+          "Xamarin.Forms.Visual.Material": "5.0.0.2478",
+          "Zeroit.Framework.MaterialWinforms": "1.0.0"
+        },
+        "runtime": {
+          "MohammadAhmadCome202Project.dll": {}
+        }
+      },
+      "Dapper/2.0.123": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.123.33578"
+          }
+        }
+      },
+      "DynamicData/7.9.1": {
+        "dependencies": {
+          "System.Reactive": "5.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/DynamicData.dll": {
+            "assemblyVersion": "7.9.0.0",
+            "fileVersion": "7.9.1.23722"
+          }
+        }
+      },
+      "Guna.UI2.WinForms/2.0.3.2": {
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {
+            "assemblyVersion": "2.0.3.2",
+            "fileVersion": "2.0.3.2"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.5.0": {},
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "ReactiveUI/18.1.8": {
+        "dependencies": {
+          "DynamicData": "7.9.1",
+          "Splat": "14.2.8"
+        },
+        "runtime": {
+          "lib/net6.0/ReactiveUI.dll": {
+            "assemblyVersion": "18.1.0.0",
+            "fileVersion": "18.1.8.16825"
+          }
+        }
+      },
+      "ReactiveUI.WinForms/18.1.8": {
+        "dependencies": {
+          "ReactiveUI": "18.1.8"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/ReactiveUI.Winforms.dll": {
+            "assemblyVersion": "18.1.0.0",
+            "fileVersion": "18.1.8.16825"
+          }
+        }
+      },
+      "Salaros.ConfigParser/0.3.2": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ConfigParser.dll": {
+            "assemblyVersion": "0.3.2.8",
+            "fileVersion": "0.3.2.8"
+          }
+        }
+      },
+      "Splat/14.2.8": {
+        "runtime": {
+          "lib/net6.0/Splat.dll": {
+            "assemblyVersion": "14.2.0.0",
+            "fileVersion": "14.2.8.38072"
+          }
+        }
+      },
+      "SQLite/3.13.0": {
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libsqlite3.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libsqlite3.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win7-x64/native/sqlite3.dll": {
+            "rid": "win7-x64",
+            "assetType": "native",
+            "fileVersion": "3.13.0.0"
+          },
+          "runtimes/win7-x86/native/sqlite3.dll": {
+            "rid": "win7-x86",
+            "assetType": "native",
+            "fileVersion": "3.13.0.0"
+          }
+        }
+      },
+      "SQLitePCLRaw.core/2.1.0": {
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SQLitePCLRaw.core.dll": {
+            "assemblyVersion": "2.1.0.1603",
+            "fileVersion": "2.1.0.1603"
+          }
+        }
+      },
+      "Stub.System.Data.SQLite.Core.NetStandard/1.0.116": {
+        "runtime": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "assemblyVersion": "1.0.116.0",
+            "fileVersion": "1.0.116.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/SQLite.Interop.dll": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/SQLite.Interop.dll": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/SQLite.Interop.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.116.0"
+          },
+          "runtimes/win-x86/native/SQLite.Interop.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.116.0"
+          }
+        }
+      },
+      "System.Data.SQLite.Core/1.0.116": {
+        "dependencies": {
+          "Stub.System.Data.SQLite.Core.NetStandard": "1.0.116"
+        }
+      },
+      "System.Memory/4.5.3": {},
+      "System.Reactive/5.0.0": {
+        "runtime": {
+          "lib/net5.0/System.Reactive.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.1"
+          }
+        }
+      },
+      "WakaTime/8.1.11": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Salaros.ConfigParser": "0.3.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WakaTime.dll": {
+            "assemblyVersion": "8.1.11.2",
+            "fileVersion": "8.1.11.2"
+          }
+        }
+      },
+      "Xamarin.Forms/5.0.0.2478": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.927"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.927"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.927"
+          }
+        }
+      },
+      "Xamarin.Forms.Visual.Material/5.0.0.2478": {
+        "dependencies": {
+          "Xamarin.Forms": "5.0.0.2478"
+        }
+      },
+      "Zeroit.Framework.MaterialWinforms/1.0.0": {
+        "runtime": {
+          "lib/Zeroit.Framework.MaterialWinforms.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MohammadAhmadCome202Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.123": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
+      "path": "dapper/2.0.123",
+      "hashPath": "dapper.2.0.123.nupkg.sha512"
+    },
+    "DynamicData/7.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fu+OuxZwQ7pvDB9DR/BPyJS4sxzFJNZ6gxVavVYKdwORxWTdN19L/qXGTmmABerpBiyxj3cVUd7pRCAWmHfTbw==",
+      "path": "dynamicdata/7.9.1",
+      "hashPath": "dynamicdata.7.9.1.nupkg.sha512"
+    },
+    "Guna.UI2.WinForms/2.0.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eemzZE4IrzNrC1Ln6KYVH0r8S8bYWUW0tu7VNXzR6d/WMu0sgTZmrp86r/vIuL1aoPESLMQnycpNbtPv2cjeQA==",
+      "path": "guna.ui2.winforms/2.0.3.2",
+      "hashPath": "guna.ui2.winforms.2.0.3.2.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "ReactiveUI/18.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UCGTCWebTf+fyaPH7HMZs/hRhXeeo9e8JE2GmOGcjbPqNMQWP+9SYmsX+gQEUim3dzM4R371bS1tsYk/Np/DwQ==",
+      "path": "reactiveui/18.1.8",
+      "hashPath": "reactiveui.18.1.8.nupkg.sha512"
+    },
+    "ReactiveUI.WinForms/18.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ld+rY8GcgDGXRAGng/hhRoAMvAS566ZTzkM/ihEsPChBSg/u57cbes8Uf0oMhM8JFWgLrsxJSKApcOlhxUpQKQ==",
+      "path": "reactiveui.winforms/18.1.8",
+      "hashPath": "reactiveui.winforms.18.1.8.nupkg.sha512"
+    },
+    "Salaros.ConfigParser/0.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-50XCtLlCTzW0SV2yFQmrikeLJ1EjRjNAcaHOQI6bIMbO2jALjgf1y+1vBsldWhJ3lPqPVV+s+q+ox3wzKh+OHQ==",
+      "path": "salaros.configparser/0.3.2",
+      "hashPath": "salaros.configparser.0.3.2.nupkg.sha512"
+    },
+    "Splat/14.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZS3/cRk8Ba32NorjhLbKZFJ+/iYLK4OSC13EXY6JNMPNbhLxlNzsuvmgzLG5FXKH8EHTqnuEU+Og7lwAXz7ucA==",
+      "path": "splat/14.2.8",
+      "hashPath": "splat.14.2.8.nupkg.sha512"
+    },
+    "SQLite/3.13.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MJfRiz2p6aMVOxrxGMdVzhpzI0oxTgZSwC8eVuOpV8L7yYaFUu8q/OFYwv9P0/aZ/pdEu24O6gma6wZJMTun9A==",
+      "path": "sqlite/3.13.0",
+      "hashPath": "sqlite.3.13.0.nupkg.sha512"
+    },
+    "SQLitePCLRaw.core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6khRuPd6ScBUQzV9bti+OtwqwFsMMgJzibhvbgiAIFVQhrowFOCM/Zq0xm00+nVEgEfPwWEOLhYvxs/5j+zAcg==",
+      "path": "sqlitepclraw.core/2.1.0",
+      "hashPath": "sqlitepclraw.core.2.1.0.nupkg.sha512"
+    },
+    "Stub.System.Data.SQLite.Core.NetStandard/1.0.116": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VEe/vzvn2ECKovtyb+nf8fsnNQ4EYOUms7gnp9729NN7FSR/0v/uVoBDO7DETzV7YCquRVwRnSnYuoOwAoTEKA==",
+      "path": "stub.system.data.sqlite.core.netstandard/1.0.116",
+      "hashPath": "stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512"
+    },
+    "System.Data.SQLite.Core/1.0.116": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-djwmo97syWCpUPJbDS0e2qUFUa8cDLeIfMotVkaRkAC5gpfBSZLMzvoLkLp1prY8waAuH1jEC3wcB2ymVVQWtA==",
+      "path": "system.data.sqlite.core/1.0.116",
+      "hashPath": "system.data.sqlite.core.1.0.116.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "System.Reactive/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-erBZjkQHWL9jpasCE/0qKAryzVBJFxGHVBAvgRN1bzM0q2s1S4oYREEEL0Vb+1kA/6BKb5FjUZMp5VXmy+gzkQ==",
+      "path": "system.reactive/5.0.0",
+      "hashPath": "system.reactive.5.0.0.nupkg.sha512"
+    },
+    "WakaTime/8.1.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fk+AxpNp+ViyS+4pNdXzS8RSdrSl1WkY/+dbzbU+bxQXTfr2eyARHCT2gx/Iy9w+8pN4+VAAqka+CoA8zjYh2A==",
+      "path": "wakatime/8.1.11",
+      "hashPath": "wakatime.8.1.11.nupkg.sha512"
+    },
+    "Xamarin.Forms/5.0.0.2478": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UeOnndxByPTpbExq0jPL5zKYqtHN9ldsgjQfUk9XF1pWSJUIakF3nJkq/tCgCVp5E1yp9Eecgqcthzy6llKiGg==",
+      "path": "xamarin.forms/5.0.0.2478",
+      "hashPath": "xamarin.forms.5.0.0.2478.nupkg.sha512"
+    },
+    "Xamarin.Forms.Visual.Material/5.0.0.2478": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R4tDO9S+Rv4ShqT4voIYR0duG4RUKnyX6S2k3aDJARCLYgXC0mGrTQ5JzxPVl4XS7nB8u6AvQmRNGqi3Y8QgxA==",
+      "path": "xamarin.forms.visual.material/5.0.0.2478",
+      "hashPath": "xamarin.forms.visual.material.5.0.0.2478.nupkg.sha512"
+    },
+    "Zeroit.Framework.MaterialWinforms/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Sg27xuQ3IBNh2nN/bB1sbe53AzxnN4AF9KLk/crqx7foioMMHDJBFiWHzPtWD9WLKFhTOkNMgY+Iife1iF9Zhw==",
+      "path": "zeroit.framework.materialwinforms/1.0.0",
+      "hashPath": "zeroit.framework.materialwinforms.1.0.0.nupkg.sha512"
+    }
+  }
+}
